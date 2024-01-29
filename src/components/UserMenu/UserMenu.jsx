@@ -1,4 +1,3 @@
-import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { logoutUser } from '../../redux/authorization/operations';
 import { selectUser } from '../../redux/authorization/selectors';
